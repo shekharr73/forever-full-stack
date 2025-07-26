@@ -1,0 +1,7 @@
+{
+    "blackbox.mcp.mode": "off",
+    "blackbox.mcpMarketplace.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true
+}
